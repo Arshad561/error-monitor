@@ -78,6 +78,9 @@ For contribution guidelines, please review the [CONTRIBUTING.md](CONTRIBUTING.md
 ## **Code of Conduct**
 We appreciate togetherness; therefore, we are an equal-opportunity organization. With your participation in this project you are expected to adhere to this projects [Code of Conduct](CODE_OF_CONDUCT.md).
 
+## **Authors**
+See the list of [Contributors](CONTRIBUTORS.md) who contributed to this project.
+
 ## **License**
 This project is licensed under the **MIT License**. See the license terms in the [LICENSE](LICENSE) file.
 
