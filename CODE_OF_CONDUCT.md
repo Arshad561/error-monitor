@@ -64,3 +64,11 @@ Community leaders will follow these Community Impact Guidelines in determining t
 **Community Impact**: The first Category of justified termination includes proof of continual violation of community standards such as repeated instances of improper behavior or harassment of a user, or evidenced behavior that is threatening or abusive of some classes of users.
 
 **Consequence**: A procedure of exclusion from all sorts of interaction with this community in the future.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
+
+Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+
+For answers to common questions about this code of conduct, see the [FAQ](https://www.contributor-covenant.org/faq). Translations are available at https://www.contributor-covenant.org/translations.
