@@ -73,7 +73,7 @@ We welcome contributions from the community at all times! Here’s how you can c
 2. Make sure to create a feature branch for this changes.
 3. When you have the changes, create a new branch, commit the changes then open pull request and make sure to elaborate on the changes made.
 
-For contribution guidelines, please review the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+For contribution guidelines, please review the [CONTRIBUTING.md](Contributing.md) file.
 
 ## **Code of Conduct**
 We appreciate togetherness; therefore, we are an equal-opportunity organization. With your participation in this project you are expected to adhere to this projects [Code of Conduct](CODE_OF_CONDUCT.md).
